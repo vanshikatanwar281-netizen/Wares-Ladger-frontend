@@ -1,7 +1,7 @@
 import { useState, useEffect, useMemo } from 'react';
 import './index.css';
 
-const API = 'http://localhost:5000';
+const API = 'https://wares-ladger-backend-exab.onrender.com';
 const PALETTE = ['#2B6E68', '#8A5A34', '#B8860B', '#3A3A3A', '#7A4B8A', '#1E4F4B', '#A6432E', '#4A6FA5'];
 const LOW_STOCK = 20;
 
